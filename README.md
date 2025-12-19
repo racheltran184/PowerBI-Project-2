@@ -3,8 +3,9 @@
 ### 📌 Project Overview
 
 This Power BI dashboard provides a strategic "Dual Track" analysis of the world's progress toward **United Nations Sustainable Development Goal 7 (SDG 7)**. Covering the period from **2000 to 2022** , it tracks the critical balance between expanding energy accessibility (Target 7.1) and accelerating the transition to renewable energy sources (Target 7.2).
-
 The project specifically highlights "The Outliers"—nations, particularly in Africa ("Mission 300"), that are leveraging renewable foundations to leapfrog traditional fossil-fuel-dependent development models.
+![SDG 7 Cover Page](https://github.com/racheltran184/PowerBI-Project-2/blob/main/SDG7.png)
+
 
 ---
 
