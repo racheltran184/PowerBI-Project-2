@@ -1,5 +1,5 @@
 # Global Progress Toward SDG 7: Affordable and Clean Energy (2000–2022)
-[Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTIzNzhjYTQtMTZiMC00Y2VmLTg1N2MtMWQ5ZjM5NTU4MDc0IiwidCI6ImMzMTBmY2FhLTIzYTMtNDQ4Ny1iN2I2LThlNzNhMDQxNDJhNyJ9)
+[![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-View_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMTIzNzhjYTQtMTZiMC00Y2VmLTg1N2MtMWQ5ZjM5NTU4MDc0IiwidCI6ImMzMTBmY2FhLTIzYTMtNDQ4Ny1iN2I2LThlNzNhMDQxNDJhNyJ9)
 ### 📌 Project Overview
 
 This Power BI dashboard provides a strategic "Dual Track" analysis of the world's progress toward **United Nations Sustainable Development Goal 7 (SDG 7)**. Covering the period from **2000 to 2022** , it tracks the critical balance between expanding energy accessibility (Target 7.1) and accelerating the transition to renewable energy sources (Target 7.2).
